@@ -40,9 +40,7 @@ include('conn.php');
           <li class="nav-item">
             <a class="nav-link" href="index.html#services">Services</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="index.html#resume">resume</a>
-          </li>
+          
           <li class="nav-item">
             <a class="nav-link" href="index.html#work">Work</a>
           </li>

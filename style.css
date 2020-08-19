@@ -124,7 +124,6 @@ header.sticky .navbar-nav .nav-link {
     margin: 40px 0;
 }
 
-
 .section-title h1{
     display: inline-block;
     font-size: 35px;
@@ -168,7 +167,6 @@ header.sticky .navbar-nav .nav-link {
     justify-content: space-between;
    margin-top: 30px;
    position: relative;
-  
 }
 
  .text .info .list{
@@ -260,12 +258,12 @@ header.sticky .navbar-nav .nav-link {
 /* //////////// resume/////////// */
 .text-edu h2{
     font-weight: 600;
-    
+    margin-top: 70px;
 }
 .education{
     border: 1px solid #eee;
     padding: 15px;
-    margin: 10px;
+    margin: 100px;
 }
 .education:hover{
     transform: translateY(-10px);
@@ -390,7 +388,7 @@ body {
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: #3274d6;
+    background-color: #0c0c17;
     color: #ffffff;
 }
 .login form input[type="password"], .login form input[type="text"] {
@@ -404,7 +402,7 @@ body {
     width: 100%;
     padding: 15px;
    margin-top: 20px;
-    background-color: #3274d6;
+    background-color: #0c0c17;
     border: 0;
     cursor: pointer;
     font-weight: bold;
@@ -412,8 +410,12 @@ body {
     transition: background-color 0.2s;
 }
 .login form input[type="submit"]:hover {
-  background-color: #2868c7;
+    background-color:  #0c0c17;
     transition: background-color 0.2s;
+    -webkit-transition: background-color 0.2s;
+    -moz-transition: background-color 0.2s;
+    -ms-transition: background-color 0.2s;
+    -o-transition: background-color 0.2s;
 }
 /* 
 ///////////////// footer/////////// */
