@@ -258,12 +258,13 @@ header.sticky .navbar-nav .nav-link {
 /* //////////// resume/////////// */
 .text-edu h2{
     font-weight: 600;
-    margin-top: 70px;
+    
 }
 .education{
     border: 1px solid #eee;
     padding: 15px;
-    margin: 100px;
+    margin: 20px 0;
+    
 }
 .education:hover{
     transform: translateY(-10px);
